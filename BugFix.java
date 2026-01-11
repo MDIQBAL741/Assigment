@@ -8,7 +8,7 @@ public class BugFix {
 	public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("\n**************\n");
-        System.out.println("\tWelcome to TheDesk \n");
+        System.out.println("\tWelcome to Faizu heart \n");
         System.out.println("**************");
         optionsSelection();
 
