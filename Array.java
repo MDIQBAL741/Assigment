@@ -7,7 +7,7 @@ public class Array {
 	int marks[]=new int[3];
 	void display() {
 		Scanner sc =new Scanner(System.in);
-		System.out.println("Enter marks of 3 subjects ");
+		System.out.println("Enter marks of 3 subject ");
 		for(int i=0;i<marks.length;i++) {
 			marks[i]=sc.nextInt();
 		}
